@@ -4,7 +4,7 @@
 const barConfig = {
   type: 'bar',
   data: {
-    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+    labels: ['Janeiro', 'Fevereirp', 'Março', 'Abril', 'Maio', 'Junho', 'Julho'],
     datasets: [
       {
         label: 'Shoes',

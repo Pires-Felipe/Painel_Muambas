@@ -4,7 +4,7 @@
 const pieConfig = {
   type: 'doughnut',
   data: {
-    datasets: [
+    datasets: [ 
       {
         data: [33, 33, 33],
         /**
@@ -15,7 +15,7 @@ const pieConfig = {
         label: 'Dataset 1',
       },
     ],
-    labels: ['Shoes', 'Shirts', 'Bags'],
+    labels: ['Processando', 'Concluídos', 'Cancelados'],
   },
   options: {
     responsive: true,
